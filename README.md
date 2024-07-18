@@ -7,15 +7,15 @@ This repository contains all the homeworks (both the fundamental and advanced pa
 ## Assignment2 Triangles and Z-buffering
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa2.png) 
 ## Assignment3 Pipeline and Shading
-normal 
+### normal 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa3-normal.png) 
-phong 
+### phong 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa3-phong.png) 
-texture 
+### texture 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa3-texture.png) 
-bump 
+### bump 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa3-bump.png) 
-displacement 
+### displacement 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa3-displacement.png) 
 ## Assignment4 Bézier Curve
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa4.png) 
@@ -24,9 +24,9 @@ displacement
 ## Assignment6 Acceleration Structure
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa6.png) 
 ## Assignment7 Path Tracing
-global illumination 2SSP
+### global illumination 2SSP
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa7-ssp2.png) 
-global illumination 512SSP
+### global illumination 512SSP
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa7-ssp512.png) 
-mirror material
+### mirror material 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa7-mirror.png) 
