@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/cherry/projects/games101/pa3/build",
+  "command": "/usr/bin/c++  -I/home/cherry/projects/games101/pa3/EIGEN3_INCLUDE_DIR -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /home/cherry/projects/games101/pa3/main.cpp",
+  "file": "/home/cherry/projects/games101/pa3/main.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa3/build",
+  "command": "/usr/bin/c++  -I/home/cherry/projects/games101/pa3/EIGEN3_INCLUDE_DIR -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /home/cherry/projects/games101/pa3/rasterizer.cpp",
+  "file": "/home/cherry/projects/games101/pa3/rasterizer.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa3/build",
+  "command": "/usr/bin/c++  -I/home/cherry/projects/games101/pa3/EIGEN3_INCLUDE_DIR -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /home/cherry/projects/games101/pa3/Triangle.cpp",
+  "file": "/home/cherry/projects/games101/pa3/Triangle.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa3/build",
+  "command": "/usr/bin/c++  -I/home/cherry/projects/games101/pa3/EIGEN3_INCLUDE_DIR -isystem /usr/include/opencv4 -g -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c /home/cherry/projects/games101/pa3/Texture.cpp",
+  "file": "/home/cherry/projects/games101/pa3/Texture.cpp"
+}
+]

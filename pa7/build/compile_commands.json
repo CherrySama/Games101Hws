@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/cherry/projects/games101/pa7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracing.dir/main.cpp.o -c /home/cherry/projects/games101/pa7/main.cpp",
+  "file": "/home/cherry/projects/games101/pa7/main.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracing.dir/Vector.cpp.o -c /home/cherry/projects/games101/pa7/Vector.cpp",
+  "file": "/home/cherry/projects/games101/pa7/Vector.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /home/cherry/projects/games101/pa7/Scene.cpp",
+  "file": "/home/cherry/projects/games101/pa7/Scene.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracing.dir/BVH.cpp.o -c /home/cherry/projects/games101/pa7/BVH.cpp",
+  "file": "/home/cherry/projects/games101/pa7/BVH.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /home/cherry/projects/games101/pa7/Renderer.cpp",
+  "file": "/home/cherry/projects/games101/pa7/Renderer.cpp"
+}
+]

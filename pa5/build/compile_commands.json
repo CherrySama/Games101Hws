@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/cherry/projects/games101/pa5/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/main.cpp.o -c /home/cherry/projects/games101/pa5/main.cpp",
+  "file": "/home/cherry/projects/games101/pa5/main.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa5/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /home/cherry/projects/games101/pa5/Scene.cpp",
+  "file": "/home/cherry/projects/games101/pa5/Scene.cpp"
+},
+{
+  "directory": "/home/cherry/projects/games101/pa5/build",
+  "command": "/usr/bin/c++   -g -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /home/cherry/projects/games101/pa5/Renderer.cpp",
+  "file": "/home/cherry/projects/games101/pa5/Renderer.cpp"
+}
+]

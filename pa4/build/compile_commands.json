@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cherry/projects/games101/pa4/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /home/cherry/projects/games101/pa4/main.cpp",
+  "file": "/home/cherry/projects/games101/pa4/main.cpp"
+}
+]
