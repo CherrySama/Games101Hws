@@ -24,9 +24,9 @@ This repository contains all the homeworks (both the fundamental and advanced pa
 ## Assignment6 Acceleration Structure
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa6.png) 
 ## Assignment7 Path Tracing
-### global illumination 2SSP
+### global illumination with 2SSP
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa7-ssp2.png) 
-### global illumination 512SSP
+### global illumination with 512SSP
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa7-ssp512.png) 
 ### mirror material 
 ![img](https://raw.githubusercontent.com/CherrySama/Games101Hws/main/images/pa7-mirror.png) 
